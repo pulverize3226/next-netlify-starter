@@ -13,11 +13,8 @@ export default function Home() {
       <main>
         <Header title="Coming soon" />
         <p className="description">
-          <code>vi aegis_echo.sh</code>
         </p>
       </main>
-
-      <Footer />
     </div>
   )
 }
